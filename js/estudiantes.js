@@ -53,12 +53,7 @@ function registrarEstudiante(){
     llenartabla();
 
 }
-
- navigator.vibrate = navigator.vibrate || navigator.webkitVibrate || navigator.mozVibrate || navigator.msVibrate;
-            if (navigator.vibrate) {
-                navigator.vibrate([500000]);
-            } 
-            else {alert('Su navegador no soporta la funcion de vibrar.')}            
+         
              
 
 
