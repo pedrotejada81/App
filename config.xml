@@ -2,7 +2,7 @@
 <widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Inscribete!</name>
     <description>
-        Una buena aplicación para realizar cursos.
+        Una buena aplicación para darse de alta en cursos.
     </description>
     <author email="p.tejada@outlook.com" href="http://phonegap.com">
         PhoneGap Team
